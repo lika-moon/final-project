@@ -6,7 +6,7 @@ function Portfolio() {
 
         <div className="titles">
             <p>
-                <img className="foto" src={avatar} alt="pik" />
+                <img className="avatar" src={avatar} alt="pik" />
 
             </p>
             <div className='about-me'>

@@ -11,7 +11,7 @@
 
 }
 
-.foto {
+.avatar {
     width: 400px;
     height: 584px;
 
@@ -19,8 +19,10 @@
 
 .about-me {
     margin-top: 10%;
+
 }
 
 .my-skils {
-    margin-top: 80%;
+    margin-top: 90%;
+
 }
