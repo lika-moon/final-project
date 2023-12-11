@@ -1,4 +1,3 @@
-
 .titles {
 
     display: grid;
@@ -10,16 +9,18 @@
     position: relative;
     gap: 20px;
 
-    }
+}
 
-    .foto {
-        width: 400px;
-        height: 584px;
+.foto {
+    width: 400px;
+    height: 584px;
 
-        }
-        .about-me {
-            margin-top: 10%;
-        }
+}
+
+.about-me {
+    margin-top: 10%;
+}
+
 .my-skils {
     margin-top: 80%;
 }

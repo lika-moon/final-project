@@ -1,3 +1,21 @@
-.test-header {
-    background-color: black;
+.menu {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 15px;
+    justify-items: center;
+    background-color: rgb(0, 0, 8);
+    border: 5px;
+    border-top-right-radius: 35%;
+    border-bottom-left-radius: 35%;
+}
+
+.text-menu {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #fdfdfd;
+
+}
+
+.link {
+    color: #fdfdfd;
 }

@@ -8,7 +8,7 @@ function Main() {
         <div className='background-container'>
 
         </div>
-        <h1 className='title'>
+        <h1 className='USOVA'>
           Добро пожаловать на сайт выпускницы Синергии!
         </h1>
       </div>
@@ -18,3 +18,4 @@ function Main() {
 }
 
 export default Main;
+
